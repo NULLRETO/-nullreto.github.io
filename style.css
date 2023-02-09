@@ -1,6 +1,6 @@
 BODY {
 	color: #000000;
-    background-color: #FFF8DC;
+    background-color: #FFFFFF;
 	font-family:'ＭＳ Ｐゴシック';
 }
 P {
@@ -21,5 +21,5 @@ H4 {
     padding: 5px 3px 3px 0.5em;
 }
 A:visited {
-    color: #005500;
+    color: #0000EE;
 }
